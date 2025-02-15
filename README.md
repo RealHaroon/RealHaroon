@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">⭐ Programming Languages</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Scripting Languages</h3>
+<h3 align="left">⭐ Scripting Languages</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Databases</h3>
+<h3 align="left">⭐ Databases</h3>
 
 ###
 
