@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋!  I am M Haroon Abbas Khan</h2>
-<h3 align="left">Iam a Programmer and an aspiring Data Scientist, Currently im stuying computer science </h3>
+<h3 align="left">I am A Programmer And An Aspiring Data Scientist, Currently Im Stuying Computer Science </h3>
 
 
 
