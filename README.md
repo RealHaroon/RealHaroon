@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I am M Haroon Abbas Khan 👋</h2>
+<h2 align="left">Hi! I am M Haroon Abbas Khan </h2>
 <h3 align="left">I am A Programmer And A Future Data Scientist, Currently Im Stuying Computer Science </h3>
 
 
