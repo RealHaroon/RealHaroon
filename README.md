@@ -23,6 +23,17 @@
 ###
 
 
+<h3 align="left">⭐ Libraries & Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+</div>
+
+
 
 <h3 align="left">⭐ Databases</h3>
 
@@ -35,6 +46,15 @@
 </div>
 
 ###
+
+<h3 align="left">📊 Tools & Productivity</h3>
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
+  <img width="12" />
+   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="powerbi logo" />
+</div>
+
 
 ###
 
