@@ -56,8 +56,8 @@
 <div align="left">
   <h4>🎓 Oracle Cloud Infrastructure Certifications</h4>
   <ul>
-    <li>✅ OCI <b>AI Foundations Associate  </b></li>
-    <li>✅ OCI <b>Generative AI Professional </b></li>
+    <!-- <li>✅ OCI <b>AI Foundations Associate  </b></li>
+    <li>✅ OCI <b>Generative AI Professional </b></li> -->
     <li>✅ OCI <b>Data Science Professional</b></li>
   </ul>
 </div>
