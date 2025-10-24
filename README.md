@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I am M Haroon Abbas Khan </h2>
+<!-- <h2 align="left">Hi! I am M Haroon Abbas Khan </h2>
 <h3 align="left">I am a Programmer and a Data Scientist, currently studying Computer Science 🎓</h3>
 
 ---
@@ -61,7 +61,7 @@
     <li>✅ OCI <b>Data Science Professional</b></li>
   </ul>
 </div>
-
+ -->
 
 ---
 
