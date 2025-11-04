@@ -59,6 +59,7 @@
      <li>✅ OCI <b>AI Foundations Associate  </b></li>
     <li>✅ OCI <b>Generative AI Professional </b></li> 
     <li>✅ OCI <b>Data Science Professional</b></li>
+    <li>✅ OCI <b>Autonomous Database Professional</b></li>
   </ul>
 </div>
  
