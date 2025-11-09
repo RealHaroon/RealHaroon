@@ -15,7 +15,9 @@
 
 ### 🧩 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" height="45" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" height="45" alt="Python logo" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" height="45" alt="Java logo" />
 </div>
 
 ---
