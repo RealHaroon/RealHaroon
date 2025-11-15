@@ -49,6 +49,23 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="45" alt="Excel logo" />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" height="45" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter Notebook logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="Anaconda logo" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" height="45" alt="Git logo" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" height="45" alt="GitHub logo" />
+</div>
+
+---
+
+### 🛠️ Other Tools
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux logo" />
+<img width="12" />
+<img src="https://cdn-icons-png.flaticon.com/512/8821/8821037.png" height="45" alt="Packet Tracer logo" />
 </div>
 
 ---
