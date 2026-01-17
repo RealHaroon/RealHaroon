@@ -1,121 +1,189 @@
 <!-- README.md -->
 
 <div align="center">
-  
-# 👋 Hey there, I'm **M Haroon Abbas Khan**  
-### 💻 Programmer | 🧠 Data Scientist | 🎓 CS Student  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+📊;Building+AI+that+Matters+🤖;Learning+Every+Single+Day+🚀" alt="Typing SVG" />
+# 👋 Hi, I'm **M Haroon Abbas Khan**
+### 💻 Software Engineer | 🧠 Data Scientist | 🎓 CS Undergraduate
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🔰 Technologies & Tools
+## 🚀 Professional Summary
+
+Computer Science undergraduate with **strong hands-on experience in Data Science, Machine Learning, and backend development**.  
+I specialize in **data analysis, ML model building, and API-based AI systems**, with real-world projects using Python, SQL, Flask, and FastAPI.
+
+I focus on **clean code, practical solutions, and continuous improvement**.
+
+---
+
+## 🧠 Core Technical Skills
 
 ### 🧩 Programming Languages
 <div align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" height="45" alt="Python logo" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" height="45" alt="Java logo" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" height="45"/>
+  <img width="12"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" height="45"/>
 </div>
+<br>
+
+- Python (Advanced)
+- Java (Foundations & OOP)
 
 ---
 
-### ⚙️ Libraries & Frameworks
+### ⚙️ Data Science & ML Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="Flask logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
 </div>
+<br>
+
+- Exploratory Data Analysis (EDA)
+- Feature Engineering & Data Cleaning
+- Supervised ML (Classification & Regression)
+- Model Evaluation & Metrics
+- Time-series & Business datasets
+- NLP basics (Text Summarization, Sentiment Analysis)
 
 ---
 
-### 🗄️ Databases
+### 🌐 Backend & APIs
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
 </div>
+<br>
+
+- RESTful API development
+- CRUD systems
+- ML model serving
+- Authentication-ready backend logic
+- Clean route & project architecture
 
 ---
 
-### 📊 Tools & Productivity
+### 🗄️ Databases & Data Storage
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="45" alt="Excel logo" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" height="45" alt="Power BI logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter Notebook logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="Anaconda logo" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png" height="45" alt="Git logo" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" height="45" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
 </div>
+<br>
+
+- Oracle Database (Academic & Project-level)
+- MySQL
+- SQLite
+- SQL querying & schema design
 
 ---
 
-### 🛠️ Other Tools
+### 📊 Analytics & Productivity Tools
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux logo" />
-<img width="12" />
-<img src="https://cdn-icons-png.flaticon.com/512/8821/8821037.png" height="45" alt="Packet Tracer logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="45"/>
+  <img width="12"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png" height="45"/>
 </div>
+<br>
+
+- Power BI dashboards
+- Excel for analysis
+- Jupyter Notebooks
+- Git & GitHub (clean repo practices)
+
+---
+
+### 🛠️ Systems & Other Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8821/8821037.png" height="45"/>
+</div>
+<br>
+
+- Linux (CLI, environment handling)
+- Networking fundamentals (Packet Tracer, GNS3 basics)
+
+---
+
+## 📌 Featured Projects
+
+✅ **Customer Churn Prediction System**  
+- Full EDA + ML pipeline  
+- Business-driven insights & churn factors  
+- Classification model with evaluation metrics  
+
+✅ **Text Summarizer & Sentiment Analyzer**  
+- NLP-based system using pretrained transformers  
+- REST API built with FastAPI  
+- Clean UI + API integration  
+
+✅ **Sales & Superstore Data Analysis**  
+- Advanced EDA  
+- Visualization-driven insights  
+- Business recommendations  
+
+✅ **Flask CRUD Systems (Academic + Personal)**  
+- Student Record System  
+- Notes App with timestamps  
+- Clean architecture & routing
 
 ---
 
 ## 🏅 Certifications
 
-🎓 **Oracle Cloud Infrastructure**  
-- ✅ AI Foundations Associate  
-- ✅ Generative AI Professional  
-- ✅ Data Science Professional  
-- ✅ Autonomous Database Professional  
+🎓 **Oracle Cloud Infrastructure**
+- AI Foundations Associate
+- Generative AI Professional
+- Data Science Professional
+- Autonomous Database Professional
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RealHaroon&theme=tokyonight&hide_border=true&border_radius=15" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RealHaroon&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 </div>
 
 ---
 
-## 🧠 About Me
-> 💬 *“Data is the new oil — I just like refining it.”*  
-> Passionate about exploring AI, automation, and analytics to turn raw data into actionable insights.  
+## 🎯 Career Focus
 
-- 🔭 Currently working on **Data Science & AI projects**  
-- 🌱 Learning **Machine Learning, Flask, and Data Visualization**  
-- 💡 Love solving real-world problems with data-driven solutions  
-- 🎯 Goal: To become a **Top-tier Data Scientist** in Pakistan  
+- 📌 Data Scientist / ML Engineer (Entry–Mid Level)
+- 📌 Backend Developer (Python)
+- 📌 AI-powered Web Applications
+- 📌 Automation & Analytics Solutions
 
 ---
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://github.com/RealHaroon"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://www.linkedin.com/in/mharoonabbaskhan"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:realharoonkhan11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://github.com/RealHaroon"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linkedin.com/in/mharoonabbaskhan"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:realharoonkhan11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </div>
 
 ---
 
-<h3 align="center">🚀 Keep Building. Keep Learning. Keep Innovating.</h3>
-
----
+<h3 align="center">🚀 Build Real Skills. Ship Real Projects. Grow Every Day.</h3>
