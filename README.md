@@ -61,7 +61,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
   <img width="12"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40"/>
 </div>
 <br>
 
