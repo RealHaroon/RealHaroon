@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **M Haroon Abbas Khan**
-### 💻 Software Engineer | 🧠 Data Scientist | 🎓 CS Undergraduate
+### 🧠 Data Scientist| 💻 Data Analyst 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
@@ -31,7 +31,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 <br>
 
 - Python (Advanced)
-- Java (Foundations & OOP)
+- Java (Foundations, OOP & DSA)
 
 ---
 
@@ -55,20 +55,21 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - NLP basics (Text Summarization, Sentiment Analysis)
 
 ---
-
-### 🌐 Backend & APIs
+### 🌐 Backend, APIs & Apps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45"/>
 </div>
 <br>
 
 - RESTful API development
-- CRUD systems
 - ML model serving
-- Authentication-ready backend logic
-- Clean route & project architecture
+- Streamlit-based data apps
+- CRUD-ready backend logic
+- Clean project & route architecture
 
 ---
 
@@ -82,7 +83,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 </div>
 <br>
 
-- Oracle Database (Academic & Project-level)
+- Oracle Database 
 - MySQL
 - SQLite
 - SQL querying & schema design
@@ -128,7 +129,12 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 ✅ **Customer Churn Prediction System**  
 - Full EDA + ML pipeline  
 - Business-driven insights & churn factors  
-- Classification model with evaluation metrics  
+- Classification model with evaluation metrics
+
+✅ **Rain Prediction System**  
+- Built a machine learning model to predict rainfall using historical weather data  
+- Performed data preprocessing, feature selection, and model evaluation  
+- Designed a clean, reproducible ML workflow  
 
 ✅ **Text Summarizer & Sentiment Analyzer**  
 - NLP-based system using pretrained transformers  
@@ -139,11 +145,6 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - Advanced EDA  
 - Visualization-driven insights  
 - Business recommendations  
-
-✅ **Flask CRUD Systems (Academic + Personal)**  
-- Student Record System  
-- Notes App with timestamps  
-- Clean architecture & routing
 
 ---
 
@@ -180,7 +181,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://github.com/RealHaroon"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/mharoonabbaskhan"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/haroon-abbas-khan-8a4203345"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:realharoonkhan11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </div>
 
