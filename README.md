@@ -134,7 +134,13 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 ✅ **Rain Prediction System**  
 - Built a machine learning model to predict rainfall using historical weather data  
 - Performed data preprocessing, feature selection, and model evaluation  
-- Designed a clean, reproducible ML workflow  
+- Designed a clean, reproducible ML workflow
+
+✅ **Breast Cancer Classification System**
+- End-to-end deep learning pipeline using medical ultrasound images
+- Transfer learning with EfficientNet and fine-tuning for improved performance
+- Evaluated using medical-relevant metrics (AUC, precision, recall)
+- Deployed as a web application using FastAPI with image upload interface  
 
 ✅ **Text Summarizer & Sentiment Analyzer**  
 - NLP-based system using pretrained transformers  
