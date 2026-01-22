@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **M Haroon Abbas Khan**
-### 🧠 Data Scientist| 💻 Data Analyst 
+### 🧠 Data Scientist | 💻 Data Analyst 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
