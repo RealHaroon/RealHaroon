@@ -66,7 +66,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 <br>
 
 - RESTful API development
-- ML model serving
+- ML model Serving
 - Streamlit-based data apps
 - CRUD-ready backend logic
 - Clean project & route architecture
