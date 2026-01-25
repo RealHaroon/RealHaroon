@@ -71,22 +71,24 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - CRUD-ready backend logic
 - Clean project & route architecture
 
----
-
-### 🗄️ Databases & Data Storage
+---### 🗄️ Databases & Data Storage
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite"/>
 </div>
 <br>
 
-- Oracle Database 
+- Oracle Database
 - MySQL
+- PostgreSQL
 - SQLite
 - SQL querying & schema design
+
 
 ---
 
