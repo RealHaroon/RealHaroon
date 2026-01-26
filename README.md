@@ -71,7 +71,8 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - CRUD-ready backend logic
 - Clean project & route architecture
 
----### 🗄️ Databases & Data Storage
+---
+### 🗄️ Databases & Data Storage
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle"/>
   <img width="12"/>
