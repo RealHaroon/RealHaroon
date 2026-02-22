@@ -143,7 +143,13 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - End-to-end deep learning pipeline using medical ultrasound images
 - Transfer learning with EfficientNet and fine-tuning for improved performance
 - Evaluated using medical-relevant metrics (AUC, precision, recall)
-- Deployed as a web application using FastAPI with image upload interface  
+- Deployed as a web application using FastAPI with image upload interface
+  
+✅ **Artificial Intelligence Lab Repository**
+- Comprehensive collection of AI and Deep Learning implementations
+- Includes projects like Malaria Cell Classification and House Price Predictor
+- Features end-to-end deployment using FastAPI and modern web UIs
+- [View Repository](https://github.com/RealHaroon/Artificial-Intelligence-Labs)
 
 ✅ **Text Summarizer & Sentiment Analyzer**  
 - NLP-based system using pretrained transformers  
