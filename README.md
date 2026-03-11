@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **M Haroon Abbas Khan**
-### 🧠 Junior Data Scientist | 💻 Data Analyst 
+### 🧠 Junior Data Scientist | 💻 Data Analyst | AI/ML Enthusiast | Python Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
@@ -146,7 +146,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - Deployed as a web application using FastAPI with image upload interface
   
 ✅ **Artificial Intelligence Lab Repository**
-- Comprehensive collection of AI and Deep Learning implementations
+- Comprehensive collection of Machine Learning and Deep Learning implementations
 - Includes projects like Malaria Cell Classification and House Price Predictor
 - Features end-to-end deployment using FastAPI and modern web UIs
 - [View Repository](https://github.com/RealHaroon/Artificial-Intelligence-Labs)
@@ -156,11 +156,15 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - REST API built with FastAPI  
 - Clean UI + API integration  
 
-✅ **Sales & Superstore Data Analysis**  
-- Advanced EDA  
-- Visualization-driven insights  
-- Business recommendations  
+✅ **Titanic Survival Prediction (EDA + ML)**  
+- Performed detailed exploratory data analysis on passenger demographics and survival patterns  
+- Applied feature engineering and trained classification models  
+- Identified key survival factors such as gender, class, and age  
 
+✅ **US Accidents Data Analysis**  
+- Conducted large-scale EDA on US traffic accident dataset (millions of records)  
+- Identified trends in accident frequency, weather impact, and location patterns  
+- Built visualizations to highlight accident hotspots and risk factors  
 ---
 
 ## 🏅 Certifications
