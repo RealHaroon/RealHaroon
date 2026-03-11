@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **M Haroon Abbas Khan**
-### 🧠 Junior Data Scientist | 💻 Data Analyst | AI/ML Enthusiast | Python Developer
+### Data Scientist | Data Analyst | Machine Learning Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
@@ -200,7 +200,7 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://github.com/RealHaroon"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="www.linkedin.com/in/haroon-abbas-khan-8a4203345"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/muhammad-haroon-abbas-25-9-2004o4"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:realharoonkhan11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </div>
 
