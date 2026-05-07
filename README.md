@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **M Haroon Abbas Khan**
-### Data Scientist | Data Analyst | Machine Learning Engineer
+### Data Scientist | Machine Learning Engineer | AI Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Scalable+APIs+with+FastAPI+%26+Flask;Turning+Raw+Data+into+Business+Insights;Consistent+Learner+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 
@@ -13,8 +13,8 @@
 
 ## 🚀 Professional Summary
 
-Computer Science undergraduate with **strong hands-on experience in Data Science, Machine Learning, and backend development**.  
-I specialize in **data analysis, ML model building, and API-based AI systems**, with real-world projects using Python, SQL, Flask, and FastAPI.
+Computer Science undergraduate with **strong hands-on experience in Data Science, Machine Learning, Computer Vision, and backend development**.  
+I specialize in **building end-to-end AI systems** — from data pipelines and model training to REST API deployment and real-world applications.
 
 I focus on **clean code, practical solutions, and continuous improvement**.
 
@@ -55,6 +55,23 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - NLP basics (Text Summarization, Sentiment Analysis)
 
 ---
+
+### 🤖 Deep Learning & Computer Vision
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
+</div>
+<br>
+
+- TensorFlow & Keras
+- Transfer Learning & Fine-tuning
+- YOLO-based Object Detection
+- Image Classification & Medical Imaging
+- OpenCV for real-time vision pipelines
+
+---
+
 ### 🌐 Backend, APIs & Apps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
@@ -66,12 +83,13 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 <br>
 
 - RESTful API development
-- ML model Serving
+- ML model serving & deployment
 - Streamlit-based data apps
 - CRUD-ready backend logic
 - Clean project & route architecture
 
 ---
+
 ### 🗄️ Databases & Data Storage
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle"/>
@@ -89,7 +107,6 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 - PostgreSQL
 - SQLite
 - SQL querying & schema design
-
 
 ---
 
@@ -129,42 +146,48 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 
 ## 📌 Featured Projects
 
-✅ **Customer Churn Prediction System**  
-- Full EDA + ML pipeline  
-- Business-driven insights & churn factors  
-- Classification model with evaluation metrics
+### 🦯 Virtual Eye — Accessibility App for the Visually Impaired
+> Assistive mobile application designed to help blind and visually impaired users navigate their environment independently.
 
-✅ **Rain Prediction System**  
-- Built a machine learning model to predict rainfall using historical weather data  
-- Performed data preprocessing, feature selection, and model evaluation  
-- Designed a clean, reproducible ML workflow
+- Real-time object detection using **YOLO** to identify surroundings and obstacles
+- Voice-guided feedback system providing spoken descriptions to the user
+- Built with **React Native (Expo)** for cross-platform mobile deployment
+- Backend powered by **FastAPI** for efficient model inference and API communication
+- Focused on real-world accessibility and inclusive design
 
-✅ **Breast Cancer Classification System**
-- End-to-end deep learning pipeline using medical ultrasound images
-- Transfer learning with EfficientNet and fine-tuning for improved performance
-- Evaluated using medical-relevant metrics (AUC, precision, recall)
-- Deployed as a web application using FastAPI with image upload interface
-  
-✅ **Artificial Intelligence Lab Repository**
-- Comprehensive collection of Machine Learning and Deep Learning implementations
-- Includes projects like Malaria Cell Classification and House Price Predictor
-- Features end-to-end deployment using FastAPI and modern web UIs
-- [View Repository](https://github.com/RealHaroon/Artificial-Intelligence-Labs)
+---
 
-✅ **Text Summarizer & Sentiment Analyzer**  
-- NLP-based system using pretrained transformers  
-- REST API built with FastAPI  
-- Clean UI + API integration  
+### 🪪 Student ID Card Detection System
+> Computer vision system that detects and verifies student ID cards in real time.
 
-✅ **Titanic Survival Prediction (EDA + ML)**  
-- Performed detailed exploratory data analysis on passenger demographics and survival patterns  
-- Applied feature engineering and trained classification models  
-- Identified key survival factors such as gender, class, and age  
+- Custom-trained **YOLO model** for ID card localization and detection
+- Processes live camera feeds for on-the-spot verification
+- Integrated with a **FastAPI** backend to handle inference requests
+- Designed for institutional use — fast, accurate, and easy to deploy
+- Demonstrates end-to-end CV pipeline from data collection to deployment
 
-✅ **US Accidents Data Analysis**  
-- Conducted large-scale EDA on US traffic accident dataset (millions of records)  
-- Identified trends in accident frequency, weather impact, and location patterns  
-- Built visualizations to highlight accident hotspots and risk factors  
+---
+
+### 🎗️ Breast Cancer Classification System
+> End-to-end deep learning pipeline for classifying breast cancer from medical ultrasound images.
+
+- Transfer learning with **EfficientNet**, fine-tuned for high medical accuracy
+- Evaluated using clinically relevant metrics: **AUC, Precision, Recall, F1**
+- Handles preprocessing, augmentation, and class imbalance
+- Deployed as a web application via **FastAPI** with an image upload interface
+- Built with patient safety in mind — optimized to minimize false negatives
+
+---
+
+### 🧪 Artificial Intelligence Lab Repository
+> A comprehensive collection of Machine Learning and Deep Learning implementations built throughout coursework and self-study.
+
+- Covers a wide range of topics: classification, regression, CNNs, NLP, and more
+- Includes projects like **Malaria Cell Classification** and **House Price Predictor**
+- Features end-to-end deployment using **FastAPI** and clean web UIs
+- Well-documented notebooks suitable for learning and reference
+- [📂 View Repository](https://github.com/RealHaroon/Artificial-Intelligence-Labs)
+
 ---
 
 ## 🏅 Certifications
@@ -192,7 +215,8 @@ I focus on **clean code, practical solutions, and continuous improvement**.
 
 - 📌 Data Scientist / ML Engineer (Entry–Mid Level)
 - 📌 Backend Developer (Python)
-- 📌 AI-powered Web Applications
+- 📌 AI-powered Web & Mobile Applications
+- 📌 Computer Vision & Accessibility Technology
 - 📌 Automation & Analytics Solutions
 
 ---
