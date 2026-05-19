@@ -184,10 +184,10 @@ I focus on **end-to-end AI pipelines**: dataset curation, model architecture, tr
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RealHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RealHaroon&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 </div>
 
 ***
