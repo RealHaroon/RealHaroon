@@ -110,10 +110,12 @@ I focus on **end-to-end AI pipelines**: dataset curation, model architecture, tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
+   <img width="12"/>
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="45"/>
 </div>
 <br>
 
-- PostgreSQL, MySQL, SQLite
+- PostgreSQL, MySQL, SQLite, MongoDB
 - SQL querying, schema design, indexing
 
 ***
