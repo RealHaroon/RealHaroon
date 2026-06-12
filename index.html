@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M Haroon Abbas Khan | Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #0f172a; color: #e2e8f0; }
+        .font-mono { font-family: 'JetBrains Mono', monospace; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+        html { scroll-behavior: smooth; }
+    </style>
+</head>
+<body class="antialiased selection:bg-cyan-500 selection:text-white">
+    <nav class="fixed w-full z-50 glass py-4">
+        <div class="max-w-6xl mx-auto px-4 flex justify-between items-center">
+            <a href="#" class="font-mono font-bold text-xl text-cyan-400">MHAK.</a>
+            <div class="space-x-6 text-sm font-medium hidden md:block">
+                <a href="#about" class="hover:text-cyan-400 transition-colors">About</a>
+                <a href="#skills" class="hover:text-cyan-400 transition-colors">Skills</a>
+                <a href="#projects" class="hover:text-cyan-400 transition-colors">Projects</a>
+                <a href="#contact" class="hover:text-cyan-400 transition-colors">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="min-h-screen flex items-center justify-center px-4 pt-20">
+        <div class="max-w-4xl mx-auto text-center">
+            <p class="font-mono text-cyan-400 mb-4">Hi, my name is</p>
+            <h1 class="text-5xl md:text-7xl font-extrabold text-white mb-6 tracking-tight">M Haroon Abbas Khan.</h1>
+            <h2 class="text-3xl md:text-5xl font-bold text-slate-400 mb-8">I build and deploy AI systems.</h2>
+            <p class="text-lg text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed">
+                I'm a Fourth year Computer Science student and a builder at heart. I specialize in the intersection of Machine Learning and Software Engineering, focusing on MLOps, API deployment, and transforming theoretical models into robust, real-world applications.
+            </p>
+            <a href="#projects" class="inline-block border border-cyan-400 text-cyan-400 px-8 py-3 rounded hover:bg-cyan-400 hover:text-slate-900 transition-all font-mono">View My Work</a>
+        </div>
+    </section>
+
+    <section id="about" class="py-20 px-4 bg-slate-800/50">
+        <div class="max-w-4xl mx-auto">
+            <h3 class="text-2xl font-bold text-white mb-8 border-b border-slate-700 pb-2"><span class="text-cyan-400 font-mono">01.</span> About & Experience</h3>
+            <div class="grid md:grid-cols-2 gap-12">
+                <div class="text-slate-300 leading-relaxed space-y-4">
+                    <p>Currently studying at the University of Sindh, Laar Campus, I prioritize end-to-end engineering over pure theoretical study.</p>
+                    <p>I thrive in Linux-based environments (Mint, Ubuntu, Debian) and rely heavily on the CLI and Docker for my development workflows. Beyond academics, I manage a local family business, which has honed my problem-solving, operational logistics, and ability to handle pressure.</p>
+                </div>
+                <div>
+                    <div class="mb-6">
+                        <h4 class="text-xl font-bold text-slate-200">Teaching Assistant (AI)</h4>
+                        <p class="text-cyan-400 font-mono text-sm mb-2">University of Sindh</p>
+                        <p class="text-slate-400 text-sm">Assisting professors with lab tasks, technical demonstrations, and mentoring peers in Artificial Intelligence implementations.</p>
+                    </div>
+                    <div>
+                        <h4 class="text-xl font-bold text-slate-200">Broadcast Channel Administrator</h4>
+                        <p class="text-cyan-400 font-mono text-sm mb-2">University Cohort</p>
+                        <p class="text-slate-400 text-sm">Managing central communications and organizing online study groups for technical interview and competency test preparation.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="py-20 px-4">
+        <div class="max-w-4xl mx-auto">
+            <h3 class="text-2xl font-bold text-white mb-8 border-b border-slate-700 pb-2"><span class="text-cyan-400 font-mono">02.</span> Technical Arsenal</h3>
+            <div class="flex flex-wrap gap-3">
+                <span class="px-4 py-2 bg-slate-800 text-cyan-300 rounded-full font-mono text-sm border border-slate-700">Python</span>
+                <span class="px-4 py-2 bg-slate-800 text-cyan-300 rounded-full font-mono text-sm border border-slate-700">FastAPI</span>
+                <span class="px-4 py-2 bg-slate-800 text-cyan-300 rounded-full font-mono text-sm border border-slate-700">TensorFlow</span>
+                <span class="px-4 py-2 bg-slate-800 text-cyan-300 rounded-full font-mono text-sm border border-slate-700">Scikit-Learn</span>
+                <span class="px-4 py-2 bg-slate-800 text-cyan-300 rounded-full font-mono text-sm border border-slate-700">YOLOv8</span>
+                <span class="px-4 py-2 bg-slate-800 text-slate-300 rounded-full font-mono text-sm border border-slate-700">Java</span>
+                <span class="px-4 py-2 bg-slate-800 text-slate-300 rounded-full font-mono text-sm border border-slate-700">TypeScript</span>
+                <span class="px-4 py-2 bg-slate-800 text-green-300 rounded-full font-mono text-sm border border-slate-700">Linux/Bash</span>
+                <span class="px-4 py-2 bg-slate-800 text-blue-300 rounded-full font-mono text-sm border border-slate-700">Docker</span>
+                <span class="px-4 py-2 bg-slate-800 text-orange-300 rounded-full font-mono text-sm border border-slate-700">DSA</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="py-20 px-4 bg-slate-800/50">
+        <div class="max-w-4xl mx-auto">
+            <h3 class="text-2xl font-bold text-white mb-8 border-b border-slate-700 pb-2"><span class="text-cyan-400 font-mono">03.</span> Featured Deployments</h3>
+            <div class="grid md:grid-cols-2 gap-6">
+                
+                <div class="glass p-6 rounded-lg hover:-translate-y-1 transition-transform">
+                    <div class="flex justify-between items-center mb-4">
+                        <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-2">Virtual Eye</h4>
+                    <p class="text-slate-400 text-sm mb-4">An AI-based object detection system engineered to assist the visually impaired, utilizing YOLOv8. Successfully presented at the 2026 AI Mini Project Exhibition.</p>
+                    <div class="flex gap-3 text-xs font-mono text-slate-500">
+                        <span>YOLOv8</span>
+                        <span>Computer Vision</span>
+                    </div>
+                </div>
+
+                <div class="glass p-6 rounded-lg hover:-translate-y-1 transition-transform">
+                    <div class="flex justify-between items-center mb-4">
+                        <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-2">Breast Cancer Classification</h4>
+                    <p class="text-slate-400 text-sm mb-4">A Deep Learning classification system utilizing the BUSI medical imaging dataset to analyze and predict tumor classifications.</p>
+                    <div class="flex gap-3 text-xs font-mono text-slate-500">
+                        <span>Deep Learning</span>
+                        <span>Medical Imaging</span>
+                    </div>
+                </div>
+
+                <div class="glass p-6 rounded-lg hover:-translate-y-1 transition-transform">
+                    <div class="flex justify-between items-center mb-4">
+                        <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-2">End-to-End Prediction APIs</h4>
+                    <p class="text-slate-400 text-sm mb-4">Engineered full ML pipelines for Customer Churn and Rain Prediction. Includes comprehensive EDA and deployment as REST APIs using FastAPI.</p>
+                    <div class="flex gap-3 text-xs font-mono text-slate-500">
+                        <span>FastAPI</span>
+                        <span>Scikit-Learn</span>
+                        <span>MLOps</span>
+                    </div>
+                </div>
+
+                <div class="glass p-6 rounded-lg hover:-translate-y-1 transition-transform">
+                    <div class="flex justify-between items-center mb-4">
+                        <svg class="w-8 h-8 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                    </div>
+                    <h4 class="text-xl font-bold text-white mb-2">Backend Architecture Migration</h4>
+                    <p class="text-slate-400 text-sm mb-4">Led the architectural migration of a text classification backend from Node.js/Express to Python/FastAPI for highly improved integration with ML models.</p>
+                    <div class="flex gap-3 text-xs font-mono text-slate-500">
+                        <span>FastAPI</span>
+                        <span>Node.js</span>
+                        <span>Python</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-20 px-4 text-center">
+        <div class="max-w-2xl mx-auto">
+            <h3 class="text-2xl font-bold text-white mb-4"><span class="text-cyan-400 font-mono">04.</span> What's Next?</h3>
+            <h2 class="text-4xl font-bold text-slate-200 mb-6">Get In Touch</h2>
+            <p class="text-slate-400 mb-8">Currently preparing applications for international Master's programs and always open to discussing new challenges in MLOps, software architecture, or end-to-end engineering.</p>
+            <a href="mailto:your.email@example.com" class="inline-block border border-cyan-400 text-cyan-400 px-8 py-3 rounded hover:bg-cyan-400 hover:text-slate-900 transition-all font-mono">Say Hello</a>
+        </div>
+    </section>
+
+    <footer class="py-6 text-center text-slate-500 font-mono text-sm">
+        <p>Built by M Haroon Abbas Khan</p>
+    </footer>
+</body>
+</html>
