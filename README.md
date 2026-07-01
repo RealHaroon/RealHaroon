@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Muhammad Haroon Abbas**
-### AI Systems Developer | ML Engineer 
+### AI Systems Developer | ML Engineer | Python Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Training+%26+Fine-tuning+Production+AI+Models;FastAPI+%7C+Docker+%7C+MLOps+%7C+Model+Deployment;Building+AI+Systems+That+Work+in+the+Real+World" alt="Typing SVG" />
 
