@@ -35,7 +35,7 @@ I focus on **end-to-end AI pipelines**: dataset curation, model architecture, tr
 - 🎯 Actively working toward **final year project & exhibition milestones**
 - 💬 Ask me about **YOLO, transfer learning, FastAPI model serving, or OCI AI services**
 - ⚡ Fun fact: **I debug faster with coffee than without ☕**
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **muhammadharoonabbas04@gmail.com**
 
 ***
 
