@@ -1,295 +1,266 @@
-<!-- README.md -->
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Haroon%20Abbas&fontSize=42&fontColor=00C0FF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Muhammad%20Haroon%20Abbas&fontSize=44&fontColor=00C0FF&animation=twinkling&fontAlignY=36&desc=AI%20Systems%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Computer%20Vision&descAlignY=56&descSize=18" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Training+%26+Fine-tuning+Production+AI+Models;FastAPI+%7C+Docker+%7C+MLOps+%7C+Model+Deployment;OCI+Certified+AI+%26+Data+Science+Professional;Building+AI+Systems+That+Work+in+the+Real+World" alt="Typing SVG" />
+<a href="https://github.com/RealHaroon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00C0FF&center=true&vCenter=true&width=720&lines=I+don't+just+train+models.+I+build+systems+around+them.;Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+Medical+AI;FastAPI+%E2%80%A2+Docker+%E2%80%A2+MLOps+%E2%80%A2+Model+Deployment;3%C3%97+Oracle+OCI+Certified+Professional;Data+%E2%86%92+Model+%E2%86%92+API+%E2%86%92+Product" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00C0FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<!-- Quick contact -->
+<a href="https://github.com/RealHaroon"><img src="https://img.shields.io/badge/GitHub-RealHaroon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:muhammadharoonabbas04@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-00C0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RealHaroon&style=for-the-badge&color=00C0FF&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/RealHaroon?style=for-the-badge&color=00C0FF&labelColor=1a1a2e" alt="Followers" />
+<!-- Dashboard counters -->
+<img src="https://img.shields.io/badge/PUBLIC%20REPOS-35%2B-00C0FF?style=for-the-badge&labelColor=0F2027" alt="Repos"/>
+<img src="https://img.shields.io/badge/OCI%20CERTIFIED-3%C3%97-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F2027" alt="OCI"/>
+<img src="https://img.shields.io/badge/FOCUS-CV%20%E2%80%A2%20MLOps-7C3AED?style=for-the-badge&labelColor=0F2027" alt="Focus"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F2027" alt="Open to work"/>
+
+<br/><br/>
+
+<!-- Quick navigation -->
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-203A43?style=flat-square" alt="About"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-203A43?style=flat-square" alt="Projects"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/TECH%20STACK-203A43?style=flat-square" alt="Stack"/></a>
+<a href="#certs"><img src="https://img.shields.io/badge/CERTIFICATIONS-203A43?style=flat-square" alt="Certs"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/GITHUB%20STATS-203A43?style=flat-square" alt="Stats"/></a>
 
 </div>
 
-***
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<a name="about"></a>
 
 ## 🚀 About Me
 
-Computer Science undergraduate deeply passionate about **building and shipping AI systems** — not just training models, but taking them all the way from raw data to deployed, production-ready applications.
+<img align="right" src="https://komarev.com/ghpvc/?username=RealHaroon&style=flat-square&color=00C0FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
-I focus on **end-to-end AI pipelines**: dataset curation, model architecture, training, evaluation, optimization, and deployment behind clean REST APIs. Every project I build is designed to work in the real world — fast, accurate, and maintainable. I'm also **OCI Certified** across AI, Data Science, and Autonomous Database, which grounds my ML work in production-grade cloud infrastructure.
+Final-year **BS Computer Science** student at the University of Sindh who likes taking AI all the way: from a messy dataset to a trained model, to an API, to something a real person can use.
 
-> *"I don't just train models. I build systems around them."*
+My work centres on **computer vision, deep learning and model deployment**: transfer learning, real-time detection, clean FastAPI services, and Dockerised apps. I'm **Oracle OCI certified** in Generative AI, Data Science and Autonomous Database.
 
-- 🔭 Currently building **end-to-end computer vision and MLOps pipelines**
-- 🌱 Currently deepening my knowledge of **Agentic AI, LLMOps, and Kubernetes-based model serving**
-- 🎯 Actively working toward **final year project & exhibition milestones**
-- 💬 Ask me about **YOLO, transfer learning, FastAPI model serving, or OCI AI services**
-- ⚡ Fun fact: **I debug faster with coffee than without ☕**
-- 📫 Reach me at **muhammadharoonabbas04@gmail.com**
+```python
+class Haroon:
+    role      = "AI Systems Developer"
+    focus     = ["Computer Vision", "Medical AI", "MLOps"]
+    building  = ["Mentora (FYP)", "Seizure Detection → wearable", "NeuroLens 3D CNN Visualizer"]
+    learning  = ["Agentic AI", "LLMOps", "Kubernetes model serving"]
+    ask_me    = ["YOLO", "transfer learning", "FastAPI model serving", "OCI AI services"]
+    location  = "Sindh, Pakistan 🇵🇰"
+```
 
-***
+<br/>
 
-## 🧠 Core Technical Skills
-
-### 🧩 Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-</div>
-<br>
-
-- **Python** (Advanced — ML, DL, scripting, APIs)
-- **Java** (OOP & DSA foundations)
-- **SQL** (Querying, schema design, optimization)
-
-***
-
-### 🤖 Machine Learning
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-</div>
-<br>
-
-- Exploratory Data Analysis (EDA) & Feature Engineering
-- Supervised Learning — Classification, Regression, Ensemble Methods
-- Model Evaluation (AUC, F1, Precision, Recall, Confusion Matrix)
-- NLP — Text preprocessing, Sentiment Analysis, Summarization
-- Information Retrieval Systems (TF-IDF, Inverted Index, Boolean Retrieval)
-- Kaggle competitions & real-world datasets
-
-***
-
-### 🧠 Deep Learning & Computer Vision
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
-</div>
-<br>
-
-- **TensorFlow & Keras** — model design, training loops, callbacks, fine-tuning
-- **PyTorch** — custom architectures, research experiments, flexible pipelines
-- **Transfer Learning & Fine-tuning** (EfficientNet, ResNet, MobileNet, VGG)
-- **YOLO** — object detection, custom dataset training, real-time inference
-- **Image Classification** — CNNs, data augmentation, class imbalance handling
-- **Medical Imaging** — preprocessing, clinical metric optimization
-- **OpenCV** — real-time vision pipelines, frame processing, camera integration
-
-***
-
-### ☁️ Cloud & MLOps Platforms
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-</div>
-<br>
-
-- **Oracle Cloud Infrastructure (OCI)** — AI Services, Data Science, Autonomous Database
-- **Google Cloud Platform** — model training and deployment (free-tier optimized)
-- Cost-aware architecture for solo/student-scale AI deployments
-- Exploring **Kubernetes** for scalable model serving
-
-***
-
-### 🚀 Model Deployment & MLOps
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="45"/>
-</div>
-<br>
-
-- **FastAPI** — high-performance REST APIs for ML model serving
-- **Flask** — lightweight API backends and web interfaces
-- **Docker** — containerizing AI applications for reproducible deployment
-- **GitHub Actions** — CI/CD pipelines, automated testing and deployment
-- Streamlit — rapid ML demo and data app interfaces
-- Clean API architecture — route design, request validation, error handling
-
-***
-
-### 🗄️ Databases & Storage
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
-   <img width="12"/>
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="45"/>
-</div>
-<br>
-
-- PostgreSQL, MySQL, SQLite, MongoDB, OCI Autonomous Database
-- SQL querying, schema design, indexing
-
-***
-
-### 🛠️ Dev Environment & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
-</div>
-<br>
-
-- Linux (CLI, environment management, scripting)
-- Git & GitHub (version control, clean repo practices)
-- Jupyter Notebooks & Google Colab (training & experimentation)
-- Kaggle (competition datasets, GPU-accelerated training)
-
-***
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<a name="projects"></a>
 
 ## 📌 Featured Projects
 
-### 🦯 Virtual Eye — AI Accessibility App for the Visually Impaired
-> End-to-end AI system helping blind and visually impaired users navigate their environment independently.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Real-time **YOLO**-based object detection for obstacle identification and environment understanding
-- Custom-trained model optimized for low-latency mobile inference
-- Voice-guided feedback system with spoken environment descriptions
-- **FastAPI** backend handling model inference, request routing, and response delivery
-- React Native (Expo) mobile client consuming the AI backend
-- Focused on real-world usability, accessibility, and inclusive design
+### 🦯 Virtual Eye
+Real-time assistive app for visually impaired users: detects obstacles and objects and describes them through voice and haptic feedback.
 
-***
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
 
-### 🎗️ Breast Cancer Classification System
-> End-to-end deep learning pipeline for medical image classification — built with patient safety as the primary constraint.
+<a href="https://github.com/RealHaroon/Virtual-Eye-App"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
 
-- Transfer learning with **EfficientNet**, fine-tuned on breast ultrasound imaging data
-- Full training pipeline: preprocessing, augmentation, class imbalance handling, training, evaluation
-- Clinically relevant evaluation: **AUC, Precision, Recall, F1** — optimized to minimize false negatives
-- Deployed as a production-ready web application via **FastAPI** with image upload interface
-- Demonstrates full AI systems lifecycle: data → model → API → application
+</td>
+<td width="50%" valign="top">
 
-***
+### 🧠 AI Seizure Detection <sub>`in progress`</sub>
+Camera-based seizure detection, presented to the **National Epilepsy Center, Karachi** (Oct 2026). Next step: a wrist wearable with guardian alerts. Co-built with [@Zahidali37](https://github.com/Zahidali37).
 
-### 🪪 Student ID Card Detection System
-> Real-time computer vision system for ID card localization and institutional verification.
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="DL"/>
+<img src="https://img.shields.io/badge/Medical_AI-E11D48?style=flat-square" alt="Medical AI"/>
 
-- Custom **YOLO** model trained on a purpose-built dataset for ID card detection
-- Real-time camera feed processing for on-the-spot verification
-- **FastAPI** backend for inference requests with fast response times
-- Full end-to-end CV pipeline: data collection → annotation → training → deployment
+<a href="https://github.com/Zahidali37/AI-Seizure-Detection-System"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
 
-***
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔬 AI Lab Repository
-> A comprehensive collection of ML & DL implementations built throughout coursework and independent research.
+### 🎗️ Breast Cancer Classification
+Transfer-learning classifier on the BUSI ultrasound dataset, evaluated on recall, AUC and F1 to minimise false negatives, and served through a web app.
 
-- Covers: Classification, Regression, CNNs, NLP, Object Detection
-- Includes: **Malaria Cell Classification**, **House Price Predictor**, and more
-- Each project includes full training code, evaluation, and FastAPI deployment
-- Well-documented notebooks suitable for learning and reference
-- [📂 View Repository](https://github.com/YOUR_USERNAME/Artificial-Intelligence-Labs)
+<img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="MobileNetV2"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Medical_Imaging-E11D48?style=flat-square" alt="Medical"/>
 
-***
+<a href="https://github.com/RealHaroon/Breast-Cancer-Classification-System"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
 
+</td>
+<td width="50%" valign="top">
 
+### ⚡ AI-Powered Code Optimizer
+Paste code, get an optimised version with a live diff, quality scoring, an AI chat about the changes, and PDF export. Uses LLaMA 3.3 70B via Groq.
+
+<img src="https://img.shields.io/badge/LLaMA_3.3_70B-7C3AED?style=flat-square&logo=meta&logoColor=white" alt="LLaMA"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/LLM_App-0A66C2?style=flat-square" alt="LLM"/>
+
+<a href="https://github.com/RealHaroon/AI-Powered-Code-Optimizer"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Fraud Detection
+Benchmarks Random Forest vs Gradient Boosting on 284K+ heavily imbalanced transactions, with the best model deployed behind a FastAPI endpoint.
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Imbalanced_Data-334155?style=flat-square" alt="Imbalanced"/>
+
+<a href="https://github.com/RealHaroon/Credit-Card-Fraud-Detection-System"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 Student ID Card Detection
+Real-time detection and verification of University of Sindh ID cards from a live camera feed, reaching 97–98% confidence.
+
+<img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="MobileNetV2"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Real--time_CV-334155?style=flat-square" alt="Real-time"/>
+
+<a href="https://github.com/RealHaroon/ID-Card-Detection-System"><img src="https://img.shields.io/badge/View_Repo-0F2027?style=for-the-badge&logo=github" alt="Repo"/></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 More projects</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Career Recommendation System](https://github.com/RealHaroon/Career-Recommendation-System) | Suggests career paths from a student profile (Random Forest, 96.67% accuracy) | Next.js · Express · MongoDB |
+| [Customer Churn Prediction](https://github.com/RealHaroon/Customer-Churn-Prediction-System) | Predicts churn risk through a REST API and web UI | Flask · scikit-learn |
+| [Rain Predictor](https://github.com/RealHaroon/Rain-Predictor) | Rain forecasting for Karachi weather data | FastAPI · Streamlit |
+| [Artificial Intelligence Labs](https://github.com/RealHaroon/Artificial-Intelligence-Labs) | Coursework and experiments: CNNs, MNIST, malaria cells, NLP, regression | TensorFlow · PyTorch · Jupyter |
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<a name="stack"></a>
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+**Languages & Core ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,sklearn,tensorflow,pytorch,opencv&theme=dark" alt="Languages and ML"/>
+
+<br/>
+
+**Deployment & MLOps**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,githubactions,kubernetes,gcp&theme=dark" alt="Deployment"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="OCI"/>
+
+<br/>
+
+**Data, Web & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,react,nextjs,express,linux,git,vscode&theme=dark" alt="Data and tools"/>
+
+</div>
+
+<details>
+<summary><b>📖 Full skill breakdown</b></summary>
+<br/>
+
+**Machine Learning**: EDA and feature engineering, classification, regression, ensembles, imbalanced data, evaluation (AUC, F1, precision, recall), NLP (sentiment, summarisation), information retrieval (TF-IDF, inverted index).
+
+**Deep Learning & Computer Vision**: CNNs, transfer learning and fine-tuning (MobileNet, ResNet, EfficientNet, VGG), YOLO object detection on custom datasets, real-time OpenCV pipelines, medical image preprocessing.
+
+**Deployment**: FastAPI and Flask model serving, Docker, GitHub Actions CI/CD, Streamlit demos, request validation and error handling.
+
+**Cloud**: Oracle Cloud Infrastructure (AI Services, Data Science, Autonomous Database), Google Cloud free tier, exploring Kubernetes serving.
+
+**Environment**: Ubuntu Linux, Git, Jupyter, Google Colab, Kaggle GPUs.
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+<a name="certs"></a>
 
 ## 🏅 Certifications
 
 <div align="center">
 
-<a href="YOUR_CREDLY_BADGE_URL_1"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png" height="130"/></a>
-<img width="20"/>
-<a href="YOUR_CREDLY_BADGE_URL_2"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" height="130"/></a>
-<img width="20"/>
-<a href="YOUR_CREDLY_BADGE_URL_3"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OADBC25CP.png" height="130"/></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8C0DCD5AC490BDAE8D546CF856882B4BDB02F4DC54AEDF534666179FD8E662D1"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" height="125" alt="OCI Generative AI Professional"/></a>
+&nbsp;&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0FE6FCBA97503BE5F64AD1A6CB65438DB2D03E3D5BC943C130078A5C00179074"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png" height="125" alt="OCI Data Science Professional"/></a>
+&nbsp;&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=09854ED32E7FC991326977BD6B54C829F955E9C5D8C1D76100F90263A359FF7F"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OADBC25CP.png" height="125" alt="OCI Autonomous Database Professional"/></a>
+
+<br/>
+<sub>Generative AI Professional &nbsp;•&nbsp; Data Science Professional &nbsp;•&nbsp; Autonomous Database Professional</sub>
+<br/><sub>Click any badge to verify on Oracle</sub>
 
 </div>
 
-<br>
+<br/>
 
-| Certification | Issuer | Credential Link |
-|---|---|---|
-| 🧠 OCI Certified **Generative AI Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8C0DCD5AC490BDAE8D546CF856882B4BDB02F4DC54AEDF534666179FD8E662D1) |
-| 📊 OCI Certified **Data Science Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0FE6FCBA97503BE5F64AD1A6CB65438DB2D03E3D5BC943C130078A5C00179074) |
-| 🗄️ OCI Certified **Autonomous Database Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=09854ED32E7FC991326977BD6B54C829F955E9C5D8C1D76100F90263A359FF7F) |
-
-
-
-***
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<a name="stats"></a>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RealHaroon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&bg_color=0D1117" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealHaroon&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0D1117" height="165" alt="Top languages"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=RealHaroon&theme=tokyonight&hide_border=true&border_radius=14&background=0D1117" height="165" alt="Streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RealHaroon&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RealHaroon&theme=tokyo-night&hide_border=true&radius=15&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RealHaroon&theme=tokyo-night&hide_border=true&radius=14&area=true&bg_color=0D1117" width="95%" alt="Activity graph"/>
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=RealHaroon&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</a>
+<!-- Animated contribution snake (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RealHaroon/RealHaroon/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RealHaroon/RealHaroon/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/RealHaroon/RealHaroon/output/github-snake-dark.svg" alt="Contribution snake animation"/>
+</picture>
 
-</div>
-
-***
-
-## 🎯 Career Focus
-
-- 📌 AI Systems Developer / ML Engineer
-- 📌 Computer Vision & Medical AI
-- 📌 Model Training, Fine-tuning & Optimization
-- 📌 MLOps & Production Model Deployment (Oracle Cloud + Docker)
-- 📌 End-to-End AI Pipeline Engineering
-
-***
-
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
 
-<h3 align="center">🔬 Train. Deploy. Iterate. Build AI That Works.</h3>
+### 🎯 Looking for
+**ML Engineer / Computer Vision internships, AI research roles, and freelance AI projects**
+
+<a href="mailto:muhammadharoonabbas04@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-00C0FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=5C8DA0&center=true&vCenter=true&width=520&lines=Train.+Deploy.+Iterate.;Build+AI+that+works." alt="Footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
