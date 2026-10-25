@@ -186,6 +186,18 @@ I focus on **end-to-end AI pipelines**: dataset curation, model architecture, tr
 
 ***
 
+### 🧠 AI Seizure Detection System
+> Camera-based AI system for detecting epileptic seizures, presented to the National Epilepsy Center (NEC), Karachi.
+
+- Real-time **computer vision** pipeline that monitors patients through a camera feed to detect seizure activity
+- Built as an academic project and showcased at a campus exhibition
+- Presented to the **National Epilepsy Center, JPMC Karachi** (Oct 2026), receiving feedback from neurologists and the IT team on data, privacy, and false alarms
+- Next phase: a **wearable smartwatch/band** for monitoring patients outdoors and in places cameras can't cover, linked to a mobile app that alerts guardians with location
+- Collaboration with [Zahid Ali](https://github.com/Zahidali37)
+- [📂 View Repository](https://github.com/RealHaroon/AI-Seizure-Detection-System)
+
+***
+
 ### 🎗️ Breast Cancer Classification System
 > End-to-end deep learning pipeline for medical image classification — built with patient safety as the primary constraint.
 
